@@ -1,7 +1,3 @@
-Here’s a polished **README draft** tailored to your **Project Proposal App** repo, based on the classifier workflow and the integrated OIG semantic-search feature you described. You can paste this directly into `README.md` and adjust paths or model names if needed.
-
----
-
 # Project Proposal App
 
 An interactive Streamlit application that classifies proposed oversight projects into **Top Management Priority Challenges (TMPCs)** and surfaces **similar historical OIG reports** using semantic search.
