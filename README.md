@@ -100,7 +100,7 @@ python -m streamlit run app.py
 Then open:
 
 ```
-http://localhost:8501
+http://localhost:XXXX
 ```
 
 ---
