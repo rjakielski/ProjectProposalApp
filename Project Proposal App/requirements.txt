@@ -1,0 +1,5 @@
+joblib
+numpy
+pandas
+setfit
+streamlit>=1.44,<2.0
